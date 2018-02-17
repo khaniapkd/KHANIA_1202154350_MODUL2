@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Panda Resto</string>
+    <string name="name">Name</string>
+    <string name="nothing_selected">nothing_selected</string>
+    <string-array name="noMeja_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+        <item>Meja 5</item>
+        <item>Meja 6</item>
+        <item>Meja 7</item>
+        <item>Meja 8</item>
+        <item>Meja 9</item>
+        <item>Meja 10</item>
+    </string-array>
+
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+
+    <string name="miegoreng">Mie Goreng, Telur Mata Sapi</string>
+    <string name="soup">Wortel, Kentang, Buncis, Kacang Polong, Jagung</string>
+    <string name="ayamgoreng">Nasi, Ayam Goreng, Sambal</string>
+    <string name="sateayam">Nasi, Sate Ayam, Sambal Kacang</string>
+    <string name="rendang">Nasi, Rendang Daging</string>
+    <string name="oporayam">Nasi, Opor Ayam</string>
+    <string name="tempegoreng">Tempe, Garam</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
